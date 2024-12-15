@@ -1,1 +1,1 @@
-# practica-2-ia
+# Practica 2 - Programación IA
